@@ -1,0 +1,7 @@
+pymysql
+django==1.11
+redis
+python-memcached
+requests
+celery
+gunicorn
